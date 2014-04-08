@@ -1,7 +1,7 @@
-SHOURA_COUCIL
+ SHURA_COUNCIL_PHP5
 =============
 
-application client /server  basé sur les sockets en php5 permettant  un chat real entre le directeur et les professeurs.
+application client /server  basé sur les sockets en php5 permettant  un chat réel entre le directeur et les professeurs.
 
 l'idee c'est que avant que le directeur prend une decision (faire conference,...)il va voire les suggestions de ces professeur .
 
